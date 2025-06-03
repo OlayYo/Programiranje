@@ -1,6 +1,6 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
 #ifndef HEADER_H
 #define HEADER_H
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>      // 7. Organizacija izvornog koda
 #include <stdlib.h>     // 7. Organizacija izvornog koda
 #include <string.h>     // 7. Organizacija izvornog koda
