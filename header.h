@@ -1,4 +1,6 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS
+#ifndef HEADER_H
+#define HEADER_H
 #include <stdio.h>      // 7. Organizacija izvornog koda
 #include <stdlib.h>     // 7. Organizacija izvornog koda
 #include <string.h>     // 7. Organizacija izvornog koda
@@ -41,3 +43,5 @@ void ucitajKvarove(KvarPopravak** glava, const char* filename);
 void oslobodiMemoriju(KvarPopravak** glava);
 const char* statusToString(StatusPopravka status);
 void sortirajCijeneQsort(const KvarPopravak* glava); // 25, 26
+
+#endif
