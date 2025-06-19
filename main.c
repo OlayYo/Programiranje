@@ -9,7 +9,7 @@ typedef enum {
     AZURIRAJ,
     OBRISI,
     SORTIRAJ,
-	SORTIRAJ_CIJENE_QSORT, // 25, 26
+	SORTIRAJ_CIJENE_QSORT, // 25, 26 qsort
     SPREMI,
     UCITAJ,
 	BRISI_DATOTEKU,  // 21. opcija za brisanje datoteke
