@@ -4,7 +4,7 @@
 // 8. definicija globalne varijable
 int globalBrojKvarova = 0; 
 
-// 9. Jednostavna funkcija (mogla bi biti inline)
+// 9. Jednostavna funkcija
 const char* statusToString(StatusPopravka status) {
     switch (status) {
     case STATUS_CEKA_DIJELOVE: 
